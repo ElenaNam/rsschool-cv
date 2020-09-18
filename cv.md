@@ -22,3 +22,9 @@ Position of frontend-developer
 |Dates|2002-2007|
 |Self education| Python.Яндекс-Практикум (introduction)|
 |Self education|Python.Code Basics
+***
+
+## Work experience
+I worked as an accountant for various companies. She also worked with children for 17 years.
+Now I want to change my field of activity. I want to work as a programmer.
+
