@@ -28,3 +28,15 @@ Position of frontend-developer
 I worked as an accountant for various companies. She also worked with children for 17 years.
 Now I want to change my field of activity. I want to work as a programmer.
 
+***
+## Personal qualities
+- responsibility
+- self-organization
+- assiduity
+
+***
+## Special skills 
+- German language translation with a dictionary
+- English Beginner
+- Touch typing in Russian and English
+- Hobbyes: Aikido, Running
