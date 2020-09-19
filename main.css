@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+    }
+
+.container {
+    margin: auto;
+    width: 960px;
+    height: 1100px;
+    background-color: blanchedalmond;
+    border-bottom: 2px solid #000;
+   
+}
+
+
+.first {
+    /*display: inline-block;*/
+    margin: auto;
+    width: 800px;
+    height: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;  
+    /*border: 1px solid orange;*/
+    border-bottom: 2px solid #000;     
+
+}
+
+.who {
+    width: 30%;
+    /*border: 1px solid blue;*/
+    position: absolute;
+    top: 10px
+}
+
+
+.position {
+    padding-top: 0;
+    float: right;
+    text-align: right;
+    width: 40%;
+    /*border: 1px solid rgb(1, 1, 3);*/
+}
+
+
+.second {
+    margin: 20px auto;
+    position: relative;
+    width: 80%;
+    height: 380px;
+    padding: 30px, 30px, 0px;
+    /*border: 1px solid green;*/
+}
+
+.ava {
+    float: left;
+    width: 300px;    
+    /* position: absolute;*/
+    /*border: 1px solid orange;*/
+}
+
+.second-text {
+    float: right;
+    width: 300px;
+    padding-bottom: 0;
+    font-size: 30px;
+    /*border: 1px solid red;*/
+}
+
+h1 {
+    text-align: center; 
+}
+
+#objective {   
+    padding-right: 10px;
+    padding-bottom: 0;
+    text-align: right;
+}
+
+.detail {
+    margin: auto;
+    width: 80%;
+    height: 600px;
+    /*border: 3px solid #55083b;*/
+    border-top: 2px solid #000;
+}
+
+.det {
+    margin: 0 auto;
+    font-size: 1.2em;
+    /*vertical-align: 0px;*/   
+    
+}
+
+.two {
+    margin: 0 auto;
+    width: 100%;
+    font-size: 1.2em;
+    /*vertical-align: 0px;*/   
+    
+}
+
+td, th {
+   /* border-right: 1px solid #F50; */
+    /*border-left: 1px solid #F50; */
+    padding: 19px; /* устанавливаем внутренние отступы для всех сторон */
+    vertical-align: 0;
+    }
+
+    footer {
+        margin: auto;
+        width: 960px;
+        height: 20px;
+        font-size: 20px;
+        text-align: center;
+        background-color: burlywood;
+    }
