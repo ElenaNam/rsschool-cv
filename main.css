@@ -4,7 +4,7 @@
 
 .container {
     width: 960px;
-    height: 1200px;
+    height: 1500px;
     margin: auto;
     background-color: blanchedalmond;
    
@@ -48,7 +48,7 @@
     height: 380px;
     padding: 30px, 30px, 0px;
     position: relative;
-    border: 1px solid green;
+    /*border: 1px solid green;*/
     margin: 20px auto;
 
 }
@@ -58,36 +58,59 @@
     width: 300px;
     
     /* position: absolute;*/
-    border: 1px solid orange;
+    /*border: 1px solid orange;*/
 
 }
 
 .second-text {
     float: right;
     width: 300px;
-    font-size: 40px;
+    font-size: 30px;
     padding-bottom: 0px;
     
-    border: 1px solid red;
+    /*border: 1px solid red;*/
 }
 
 h1 {
     text-align: center;
+    
 
 }
 
 #objective {
     text-align: right;
-    padding-right:35px;
+    padding-right:10px;
     padding-bottom: 0px;
 }
 
 .detail {
     width: 80%;
+    height: 600px;
     margin: auto;
+    /*border: 3px solid #55083b;*/
     
 }
 
-/*.det{
-    margin: auto;
-}*/
+.det{
+    margin: 0 auto;
+    font-size: 1.2em;
+    /*vertical-align: 0px;*/
+    
+    
+}
+
+.two{
+    margin:0 auto;
+    width: 100%;
+    font-size: 1.2em;
+    /*vertical-align: 0px;*/
+    
+    
+}
+
+td, th {
+   /* border-right: 1px solid #F50; */
+    /*border-left: 1px solid #F50; */
+    padding: 19px; /* устанавливаем внутренние отступы для всех сторон */
+    vertical-align: 0px;
+    }
