@@ -17,9 +17,8 @@
     height: 35px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;  
-    /*border: 1px solid orange;*/
+    border: 1px solid orange;
     border-bottom: 2px solid #000;
-    background: blanchedalmond;
     margin: auto;
    
   
@@ -84,5 +83,11 @@ h1 {
 }
 
 .detail {
+    width: 80%;
+    margin: auto;
     
 }
+
+/*.det{
+    margin: auto;
+}*/
