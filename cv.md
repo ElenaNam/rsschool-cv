@@ -24,8 +24,12 @@ Position of frontend-developer
 |Dates|2002-2007|
 |Self education| Python.Яндекс-Практикум (introduction)|
 |Self education|Python.Code Basics
+<<<<<<< HEAD
 |Courses|The course "JavaScript/Front-end" 2020-Q3 from The Rolling Scopes community (finished)|
 |Courses|RS School React course(in progress)|
+=======
+|Courses|The course "JavaScript/Front-end" from the community of The Rolling Stones
+>>>>>>> e58199ac74cbf94f9a52640e392d8db4dd5b76b9
 
 ***
 
@@ -44,4 +48,8 @@ Now I want to change my field of activity. I want to work as a programmer.
 - German language translation with a dictionary
 - English Beginner
 - Touch typing in Russian and English
+<<<<<<< HEAD
 - Hobbyes: Aikido, Running, Tourism
+=======
+- Hobbyes: Aikido, Running, Tourism
+>>>>>>> e58199ac74cbf94f9a52640e392d8db4dd5b76b9
