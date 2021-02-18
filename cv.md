@@ -24,6 +24,7 @@ Position of frontend-developer
 |Dates|2002-2007|
 |Self education| Python.Яндекс-Практикум (introduction)|
 |Self education|Python.Code Basics
+|Courses|The course "JavaScript/Front-end" from the community of The Rolling Stones
 
 ***
 
@@ -42,4 +43,4 @@ Now I want to change my field of activity. I want to work as a programmer.
 - German language translation with a dictionary
 - English Beginner
 - Touch typing in Russian and English
-- Hobbyes: Aikido, Running
+- Hobbyes: Aikido, Running, Tourism
