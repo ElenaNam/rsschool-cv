@@ -7,84 +7,100 @@
     <title>Kirillova_CV</title>
 </head>
 <body>
-    <main class="container">
-        <section class="first">
-            <!--удалить лишние рамки после работы-->
-            <div class="who">Kirillova Elena</div>
+
+    <header class="header-wrapper">
+        <div class="header-content">
+            <div class="name">Kirillova Elena</div>
             <div class="position">Frontend Javascript Developer</div>
-        </section>
+        </div>
+    </header>
 
-        <section class="second">
-            <div class="ava">
-                <img src="Фото к CV (1).jpg" alt="image" width="250px">
-            </div>
-            
-            <div class="second-text">
-                <h1>Elena Kirillova</h1>
-                <p id="objective">I'm learning programming</p>
-            </div>
-        </section>
+    <main class="wrapper">
+        <div class="container">
+            <section class="second">
+                <div class="second-img">
+                    <img src="foto.jpg" alt="my photo" width="100%">
+                </div>
+                
+                <div class="second-text">
+                    <h1>Elena Kirillova</h1>
+                    <p>I'm learning programming</p>
+                </div>
+            </section>
 
-        <section class="detail">
-            <table class="det">
-                <thead>
-                    <tr>
-                        <th style="width: 50%; font-size: 24px; text-align: left; height: 50px;">EDUCATION</th>
-                        <th style="width: 50%; font-size: 24px; text-align: left; height: 50px;">EXPERIENCE</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><h4>Samara state pedagogical University, Economics department</h4>
-                            <p>Economic theory / Translator in the field of professional communication (from German)</p>
-                            <h4>Self education</h4>
-                            <p style="line-height: 2px;">Python.Yandex practicum (introduction)</p>
-                            <p>Python.Code Basics</p>
-                        </td>
-                        <td>
-                            <p>I worked as an accountant for various companies.</p> 
-                            <p>She also worked with children for 17 years.</p>
-                            <p> Now I want to change my field of activity.</p>
-                            <p>I want to work as a programmer.</p>
-                            </td>
-                    </tr>
-                </tbody>
-            </table>
 
-            <table class="two">
-                <thead>
-                    <tr>
-                        <th style="width: 50%; font-size: 24px; text-align: left;">SKILLS</th>
-                        <th style="width: 100%; font-size: 24px; text-align: left;">PERSONAL QUALITIES</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>
-                            <ul>
-                                <li>English Beginner</li>
-                                <li>German language translation with a dictionary</li>
-                                <li>Touch typing in Russian and English</li>
-                                <li>Hobbies: Aikido, Running</li>
-                            </ul>
-                        </td>
-                        <td>
-                            <ul>
-                                <li>responsibility</li>
-                                <li>self-organization</li>
-                                <li>assiduity</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            <section class="detail">
+                <div class="detail-item detail-education">
+                    <div class="detail-title">
+                        <h2>EDUCATION</h2>
+                    </div>
+                    <div class="detail-subtitle">
+                        <h3>Samara state pedagogical University, Economics department</h3>
+                    </div>
+                    <div class="detail-text">
+                        <p>Economic theory / Translator in the field of professional communication (from German)</p>
+                    </div>
+                    <div class="detail-subtitle">
+                        <h3>Self education</h3>
+                    </div>
+                    <div class="detail-text">
+                        <p>Python.Yandex practicum (introduction)</p>
+                        <p>Python.Code Basics</p>
+                    </div>
+                    <div class="detail-subtitle">
+                        <h3>Courses</h3>
+                    </div>
+                    <div class="detail-text">
+                        <p>The course "JavaScript/Front-end" 2020-Q3 from The Rolling Scopes community (finished)</p>
+                        <p>RS School React course(in progress)</p>
+                    </div>
+                </div>
+                <div class="detail-item detail-experience">
+                    <div class="detail-title">
+                        <h2>EXPERIENCE</h2>
+                    </div>
+                    <div class="detail-text">
+                        <p>I worked as an accountant for various companies.</p> 
+                        <p>She also worked with children for 17 years.</p>
+                        <p> Now I want to change my field of activity.</p>
+                        <p>I want to work as a programmer.</p>
+                    </div>
+                </div>
+                <div class="detail-item detail-qualities">
+                    <div class="detail-title">
+                        <h2>PERSONAL QUALITIES</h2>
+                    </div>
+                    <div class="detail-text">
+                        <ul>
+                            <li>responsibility</li>
+                            <li>self-organization</li>
+                            <li>assiduity</li>
+                        </ul>
 
-        </section>
+                    </div>
+                </div>
+                <div class="detail-item detail-skills">
+                    <div class="detail-title">
+                        <h2>SKILLS</h2>
+                    </div>
+                    <div class="detail-text">
+                      <ul>
+                        <li>English Beginner</li>
+                        <li>German language translation with a dictionary</li>
+                        <li>Touch typing in Russian and English</li>
+                        <li>Hobbies: Aikido, Running, Tourism</li>
+                      </ul>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
-    <footer style = "background-color:khaki; height:80px">
-        <address>Samara</address>
-        <address>+7 (987) 434-69-15</address>
-        <address>zaidelsonelena@gmail.com</address>
+    <footer class="footer-wrapper">
+        <div class="footer-content">
+            <address>Samara</address>
+            <address>zaidelsonelena@gmail.com</address>
+            <address>+7 (987) 434-69-15</address>            
+        </div>
     </footer>
 </body>
 </html>
