@@ -168,6 +168,10 @@
 .rss-list li {
   list-style-type: none;
 }
+.rss-list li::marker {
+  display: none;
+}
+
 .rss-list img {
   display: inline-flex;
   cursor: pointer;
