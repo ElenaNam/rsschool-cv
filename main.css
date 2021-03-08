@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  cursor: default;
 }
 
 .header-wrapper,
@@ -163,8 +164,13 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.rss-list li {
+  list-style-type: none;
+}
 .rss-list img {
   display: inline-flex;
+  cursor: pointer;
 }
 .rss-list span {
   display: inline-flex;

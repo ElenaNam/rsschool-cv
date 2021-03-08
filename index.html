@@ -95,7 +95,7 @@
                   HTML/ CSS/ JavaScript/ TypeScript/ Webpack/ ESLINT/ React/
                   Material-UI/ Query
                 </li>
-                <li>English Beginner</li>
+                <li>English Beginner(A2)</li>
                 <li>German language translation with a dictionary</li>
                 <li>Touch typing in Russian and English</li>
                 <!-- <li>Hobbies: Aikido, Running, Tourism</li> -->
@@ -125,7 +125,7 @@
 
                             {column.label}
                             {field === column.label && column.label !== "№" ? (
-                                <Arrow rotate={value} />
+                                &lt;Arrow rotate={value} &gt;
                             ) : null}
                             &lt;/TableCell&gt;
 
@@ -139,9 +139,21 @@
     <footer class="footer-wrapper">
       <div class="footer-content">
         <ul class="rss-list">
-          <img src="./logo_rs.svg" alt="logo_rs" width="80px" height="70px" />
-          <span>2021</span>
+          <li>
+            <a href="https://rs.school/js/" target="_blank">
+              <img
+                src="./logo_rs.svg"
+                alt="logo_rs"
+                width="80px"
+                height="70px"
+              />
+            </a>
+          </li>
+          <li>
+            <span>2021</span>
+          </li>
         </ul>
+
         <ul class="contacts-list">
           <li class="contacts-list__item">
             <address class="contacts-list__item-inner">Samara</address>
