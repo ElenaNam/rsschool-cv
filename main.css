@@ -93,14 +93,15 @@
 .detail-item h3 {
   margin: 10px 0;
 }
-.detail-item p {
-  /* font-size: 18px; */
-}
+
 .detail-item ul {
   padding: 20px;
 }
 .detail-text {
   margin-bottom: 10px;
+}
+.detail-text li {
+  padding: 5px 0;
 }
 
 .detail-education p {
@@ -193,7 +194,6 @@
 .contacts-list__item::marker {
   display: none;
 }
-
 .contacts-list__item-skype {
   padding-left: 120px;
 }
