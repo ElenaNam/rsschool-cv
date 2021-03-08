@@ -188,13 +188,14 @@
 }
 .contacts-list__item {
   list-style-type: none;
+  padding: 0 5px;
 }
 .contacts-list__item::marker {
   display: none;
 }
 
-.contacts-list__item-email {
-  padding-left: 110px;
+.contacts-list__item-skype {
+  padding-left: 120px;
 }
 .contacts-list__item-inner {
   font-size: 20px;
